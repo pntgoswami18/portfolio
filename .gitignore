@@ -1,10 +1,7 @@
 
 /*.sqlite3
 /media
-*.log
-*.pot
 *.pyc
-local_settings.py
 /static
 
 # Byte-compiled / optimized / DLL files
